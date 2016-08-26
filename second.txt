@@ -1,2 +1,5 @@
 China
 Taiwan
+USA
+UK
+Canada
